@@ -1,0 +1,29 @@
+commit f295092c8bfb239ce7ea79081337d8b02e496227
+Author: luisvix <luisvix_5670-2@hotmail.com>
+Date:   Fri Dec 4 00:45:08 2015 -0600
+
+    Agregue la descripcion
+
+commit 190629ee75e38b44a5323dab8e4e9a817ff3125d
+Author: luisvix <luisvix_5670-2@hotmail.com>
+Date:   Fri Dec 4 00:42:04 2015 -0600
+
+    Agregue redes sociales
+
+commit 9691e36119c17c885b1c05be41b7e2d65c87ee66
+Author: luisvix <luisvix_5670-2@hotmail.com>
+Date:   Fri Dec 4 00:39:20 2015 -0600
+
+    Escribi el perfil web
+
+commit 6d5b2acf225ebe5169d3dc9793a21ba01f67cc32
+Author: luisvix <luisvix_5670-2@hotmail.com>
+Date:   Fri Dec 4 00:37:10 2015 -0600
+
+    subi mi foto de perfil y mi nombre en el index
+
+commit d20c9298143f3cef34f61d983431328e680580ee
+Author: luisvix <luisvix_5670-2@hotmail.com>
+Date:   Fri Dec 4 00:22:22 2015 -0600
+
+    Estos son los archivos base de mi portafolio
